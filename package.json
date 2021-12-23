@@ -1,0 +1,14 @@
+{
+  "name": "raffall-suite",
+  "version": "1.0.0",
+  "description": "cypress testing",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^9.2.0",
+    "prettier": "^2.5.1"
+  },
+  "scripts": {
+    "cy:run": "cypress run",
+    "cy:open": "cypress open"
+  }
+}
